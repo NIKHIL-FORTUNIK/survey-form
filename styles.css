@@ -1,0 +1,74 @@
+body {
+  background-image: url("https://img.freepik.com/free-vector/purple-pink-halftone-background-vector_53876-67278.jpg?w=740&t=st=1661698557~exp=1661699157~hmac=defc2f3f758d64f4cdaeafda8e28b447871dc72e07fb6e78039e7765e60a0270");
+  color: #ffffff;
+  font-family: tahoma;
+  width: 100%;
+  margin: 0;
+  background-size: 1000px;
+  background-repeat: repeat-x;
+}
+
+form {
+  width: 70vh;
+  margin: 0 auto;
+  background-color: #756e6c;
+  border-radius: 15px 15px 15px 15px;
+  padding-bottom: 1em;
+}
+
+h1,p {
+  text-align: center;
+  color: #ffffff;
+}
+h1 {
+  padding-top: 40px;
+}
+#role-dropdown {
+  display: block;
+}
+
+fieldset {
+  border: none;
+  padding: 10 17 10 10;
+}
+
+label {
+  display: block;
+  padding-bottom: 10
+}
+
+input,select,textarea {
+  margin: auto;
+  width: 100%
+}
+
+input, textarea {
+  background-color: #0a0a23;
+  border: 1px solid #0a0a23;
+  color: #ffffff;
+  padding: 5px;
+  margin: 5px;
+}
+
+.oneline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+  
+  
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+}
+.last {
+  padding-bottom: 2em;
+}
