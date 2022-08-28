@@ -4,16 +4,17 @@ body {
   font-family: tahoma;
   width: 100%;
   margin: 0;
-  background-size: 1000px;
-  padding: 20px;
+  padding-right: 20px;
+  background-size: 1200px;
   background-repeat: repeat-x;
 }
 
 form {
-  width: 70vh;
+  width: 50%;
   margin: 0 auto;
   background-color: #756e6c;
   border-radius: 15px 15px 15px 15px;
+  padding: 20px;
   padding-bottom: 1em;
   padding-right: 10px;
 }
@@ -31,17 +32,17 @@ h1 {
 
 fieldset {
   border: none;
-  padding: 10px 30px 10px 10px;
+  padding: 10 17 10 10;
 }
 
 label {
   display: block;
-  padding-bottom: 10;
+  padding-bottom: 10
 }
 
 input,select,textarea {
   margin: auto;
-  width: 100%;
+  width: 100%
 }
 
 input, textarea {
@@ -73,4 +74,12 @@ textarea {
 }
 .last {
   padding-bottom: 2em;
+}
+
+.menu {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
 }
