@@ -29,17 +29,17 @@ h1 {
 
 fieldset {
   border: none;
-  padding: 10 17 10 10;
+  padding: 10 3010 10;
 }
 
 label {
   display: block;
-  padding-bottom: 10
+  padding-bottom: 10;
 }
 
 input,select,textarea {
   margin: auto;
-  width: 100%
+  width: 100%;
 }
 
 input, textarea {
